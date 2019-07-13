@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/p1epoker-list.jar clojure.main -m p1epoker.core $PORT
